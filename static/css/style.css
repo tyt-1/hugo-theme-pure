@@ -5600,7 +5600,7 @@ pre .js .function {
   color: #8959a8;
 }
 
-pre,
+/* pre,
 .highlight {
   background: #fafafa;
   margin: 10px 0;
@@ -5609,7 +5609,7 @@ pre,
   font-size: 13px;
   color: #4d4d4c;
   line-height: 1.5;
-}
+} */
 
 .highlight .gutter pre,
 .gist .gist-file .gist-data .line-numbers {
@@ -5666,7 +5666,7 @@ pre:before {
   border-top-right-radius: 4px;
 }
 
-pre:after {
+/* pre:after {
   content: "";
   position: absolute;
   border-radius: 50%;
@@ -5678,7 +5678,7 @@ pre:after {
   margin-top: 11px;
   -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
   box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
-}
+} */
 
 .highlight pre {
   border: none;
